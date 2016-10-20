@@ -1,10 +1,9 @@
-import com.sun.org.apache.xpath.internal.operations.String;
 
 class Sobaka {
     int age;
     double weight;
-    java.lang.String name;
-    java.lang.String color;
+    String name;
+    String color;
 
 }
 class SobakaDemo    {
